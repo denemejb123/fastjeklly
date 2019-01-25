@@ -4,7 +4,7 @@ description: İlk Jeklly Sayfam #siteaçıklaması
 email: email@site.com
 author: yazar.
 lang: tr #tr  en
-locale: tr_TR #tr_TR yapabilirsiniz. en_EN
+locale: en_EN #tr_TR yapabilirsiniz. en_EN
 
 # Jekyll
 paginate: 10
