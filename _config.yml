@@ -3,8 +3,8 @@ name: Benim Sitem #sitename
 description: İlk Jeklly Sayfam #siteaçıklaması 
 email: email@site.com
 author: yazar.
-lang: en
-locale: en_US
+lang: en #tr 
+locale: en_US #tr_TR yapabilirsiniz.
 
 # Jekyll
 paginate: 10
@@ -15,7 +15,7 @@ timezone: America/New_York
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-baseurl: https://ozgrozer.github.io/dasper
+baseurl: https://ssilistre.me/fastjeklly/ #buraya kendi adresinizi yazıcaksınız.
 
 # Includes
 addthisId: ""
