@@ -3,8 +3,8 @@ name: Benim Sitem #sitename
 description: İlk Jeklly Sayfam #siteaçıklaması 
 email: email@site.com
 author: yazar.
-lang: en #tr 
-locale: en_US #tr_TR yapabilirsiniz.
+lang: tr #tr  en
+locale: tr_TR #tr_TR yapabilirsiniz. en_EN
 
 # Jekyll
 paginate: 10
