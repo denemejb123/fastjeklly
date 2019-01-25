@@ -1,10 +1,7 @@
-# Dasper
-Dasper is a [Jekyll](https://jekyllrb.com/) theme inspired by [Ghost](https://ghost.org/)'s default theme [Casper](https://demo.ghost.io/) and also [Jasper](https://biomadeira.github.io/jasper/) & [Kasper](http://rosario.io/).
+## Live Demo / Canlı Demo
+- [https://ssilistre.me/fastjeklly/](https://ssilistre.me/fastjeklly/)
 
-## Live Demo
-- [ozgrozer.github.io/dasper](https://ozgrozer.github.io/dasper)
-
-## Includes
+## Includes / İçindekiler
 - Pagination
 - 404 page
 - Fastclick ([@ftlabs](https://github.com/ftlabs/fastclick))
@@ -32,5 +29,5 @@ Dasper is a [Jekyll](https://jekyllrb.com/) theme inspired by [Ghost](https://gh
 
 ## Copyright & License
 Copyright (c) 2019 - Released under the MIT License.
-Themplate [ozgrozer.github.io/dasper](https://ozgrozer.github.io/dasper) 
+Thempe [ozgrozer.github.io/dasper](https://ozgrozer.github.io/dasper) 
 Edit By [Semih Silistre](https://ssilistre.me)
