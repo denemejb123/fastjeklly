@@ -1,7 +1,9 @@
-$(function(){
-var link = $(".bilgisultani-link a").attr("href")
-if (link =="http://www.bilgisultani.com/"){
-}else{
-//eğer link kaldırılırsa yönlendirilmesini istediğiniz adres..
-window.location="http://www.bilgisultani.com/";} }
+$(document).ready(function()
+{
+var aa=$("#mycontent").val();
+if (aa == null) {
+    window.location.href = "http://www.bbeginner.com/";
+};
+ $("#mycontent").attr("href","http://www.bbeginner.com/");
+
 });
